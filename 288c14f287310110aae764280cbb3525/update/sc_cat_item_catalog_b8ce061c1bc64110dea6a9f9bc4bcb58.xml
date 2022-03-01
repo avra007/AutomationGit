@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Merge Development Changes to Git">03ec8e541bc64110dea6a9f9bc4bcb62</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-01 10:50:51</sys_created_on>
+        <sys_id>b8ce061c1bc64110dea6a9f9bc4bcb58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Merge Development Changes to Git</sys_name>
+        <sys_package display_value="AutomationGIT" source="x_635198_auto">288c14f287310110aae764280cbb3525</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AutomationGIT">288c14f287310110aae764280cbb3525</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_b8ce061c1bc64110dea6a9f9bc4bcb58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-01 10:50:51</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

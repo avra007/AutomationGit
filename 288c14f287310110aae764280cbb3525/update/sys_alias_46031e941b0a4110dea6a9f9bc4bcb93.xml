@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_635198_auto.git_flow</id>
+        <multiple_connections>false</multiple_connections>
+        <name>git_flow</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-01 11:10:01</sys_created_on>
+        <sys_id>46031e941b0a4110dea6a9f9bc4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_635198_auto.git_flow</sys_name>
+        <sys_package display_value="AutomationGIT" source="x_635198_auto">288c14f287310110aae764280cbb3525</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AutomationGIT">288c14f287310110aae764280cbb3525</sys_scope>
+        <sys_update_name>sys_alias_46031e941b0a4110dea6a9f9bc4bcb93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-01 11:10:01</sys_updated_on>
+        <type>credential</type>
+    </sys_alias>
+</record_update>
